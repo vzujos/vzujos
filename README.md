@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello there 👋
+
+Soy Vicente Zuñiga, estudio Ingeniería Biomédica en la PUC
+
+- Estoy trabajando en un proyecto relacionado con los transplantes de higado
+- Hago origami como hobby
+- Necesito vacaciones..
+- [ ] quedan 117 días para vacaciones
 
 <!--
 **vzujos/vzujos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
