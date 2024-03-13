@@ -7,6 +7,11 @@ Soy Vicente Zuñiga, estudio Ingeniería Biomédica en la PUC
 - Necesito vacaciones..
 - [ ] quedan 117 días para vacaciones
 
+### Skills
+``` python
+skills = {"skill_"+i: FALSE for i in range(100)}
+```
+
 <!--
 **vzujos/vzujos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
