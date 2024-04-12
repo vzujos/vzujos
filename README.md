@@ -1,15 +1,15 @@
-### Hello there 👋
+### Hello there
 
 Soy Vicente Zuñiga, estudio Ingeniería Biomédica en la PUC
 
-- Estoy trabajando en un proyecto relacionado con los transplantes de higado
+- Actualmente estoy trabajando en desarrollar un método para medir el grado de esteatosis en higados grasos
 - Hago origami como hobby
 - Necesito vacaciones..
-- [ ] quedan 117 días para vacaciones
+- [ ] quedan 90 días para vacaciones
 
 ### Skills
-``` python
-skills = {"skill_"+i: FALSE for i in range(100)}
+```python
+skills: list = []
 ```
 
 <!--
