@@ -1,5 +1,5 @@
 ### Hello there
-```
+<!--
 Soy Vicente Zuñiga, estudio Ingeniería Biomédica en la PUC
 
 - Actualmente estoy trabajando en desarrollar un método para medir el grado de esteatosis en higados grasos
