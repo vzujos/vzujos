@@ -1,5 +1,7 @@
 ### Hello there
-<!--
+
+
+
 Soy Vicente Zuñiga, estudio Ingeniería Biomédica en la PUC
 
 - Actualmente estoy trabajando en desarrollar un método para medir el grado de esteatosis en higados grasos
@@ -12,7 +14,7 @@ Soy Vicente Zuñiga, estudio Ingeniería Biomédica en la PUC
 skills: list = []
 ```
 
-<!--
+
 **vzujos/vzujos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -25,10 +27,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 
-<!--
+
+
 <h1 align="left">Hello There 👋</h1>
 
 ###
@@ -76,11 +78,6 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="40" alt="inkscape logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/vzujos/vzujos/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <img height="200" src="https://i.imgflip.com/64sz4u.png"  />
