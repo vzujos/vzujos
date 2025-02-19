@@ -1,7 +1,7 @@
 ## Hello There 👋, I'm Vicente Zúñiga!
 
-[<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="26" height="22" alt="linkedin logo"  />][linkedin]
-[<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="26" height="22" alt="instagram logo"  />][instagram]
+[<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="26" height="22" target="_blank" alt="linkedin logo"  />][linkedin]
+[<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="26" height="22" target="_blank" alt="instagram logo"  />][instagram]
 
 ###
 <!--
