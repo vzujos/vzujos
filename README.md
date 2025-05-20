@@ -13,7 +13,7 @@ Estudio Ingeniería Biomédica en la PUC
 
 - 🔭 I’m currently working on myself.
 - 📚 I’m currently learning Rust and Italian.
-- 👯 I’m looking to collaborate on new Open Source projects.
+- 📝 I’m looking to collaborate on new Open Source projects.
 - ⚡ Fun fact: I do Origami.
 <!--
 - 💬 Ask me about ...
